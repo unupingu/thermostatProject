@@ -1,4 +1,4 @@
 ## HEAT-PI-CONTROL
-Termostato inteligente controlado con Raspberry Pi
+Python-based Raspberry Pi thermostat application for home automation 
 
 ![alt text](docs/pics/pic.jpg "Thermostat Project")
