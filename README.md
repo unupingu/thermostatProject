@@ -19,7 +19,7 @@ Python-based Raspberry Pi thermostat application for home automation.
 * Temperature and humidity sensor lectures
 * History registration
 * Daily temperature graph
-* minimum api configuration (not securitized)
+* minimum api configuration
 * Rotate button integration
 
 
