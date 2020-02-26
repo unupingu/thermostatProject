@@ -1,5 +1,9 @@
 ## HEAT-PI-CONTROL
-Python-based Raspberry Pi thermostat application for home automation.
+#### Python-based Raspberry Pi thermostat application for home automation.
+
+To start de application in test mode use the follow commandon on the project path :
+`$ python3 -m heatPicontrol test`
+
 
 #### version 0.2.1 (Structured version) includes:
 
